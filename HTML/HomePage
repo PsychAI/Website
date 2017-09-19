@@ -4,6 +4,6 @@
     <title> Psych AI </title>
   </head>
   <body>
-    <h1 align="center"> Home </h1>
+    <h1 align="center" id="header"> Home </h1>
   </body>
 </html>
