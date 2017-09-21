@@ -2,9 +2,11 @@
 <html>
   <head>
     <title> Psych AI </title>
+    <button type="button" id="button"> Home </button>
     <link href="https://github.com/PsychAI/Website/blob/master/CSS" rel="stylesheet">
   </head>
   <body>
     <h1 align="center" id="header"> Home </h1>
+    <script src="https://github.com/PsychAI/Website/blob/master/JS"></script>
   </body>
 </html>
