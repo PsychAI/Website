@@ -2,6 +2,7 @@
 <html>
   <head>
     <title> Psych AI </title>
+    <link href="https://github.com/PsychAI/Website/blob/master/CSS" rel="stylesheet">
   </head>
   <body>
     <h1 align="center" id="header"> Home </h1>
